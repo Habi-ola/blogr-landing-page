@@ -225,7 +225,7 @@ footer{
     .nav{
         background-color: white;
         overflow: hidden;
-        margin-left: 140px;
+        margin-left: 144px;
         margin-top: -5px;
     }
     li{
@@ -335,7 +335,7 @@ footer{
         font-size: 22px;
     }
     .para1, .para2{
-        font-size: 10px;
+        font-size: 12px;
     }
     .subdiv h3{
         font-size: 15px;
@@ -347,7 +347,7 @@ footer{
         margin-left: 45px;
     }
     .sect1{
-        height: 450px;
+        height: 480px;
     }
 
 
