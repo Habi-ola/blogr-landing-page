@@ -318,6 +318,7 @@ footer{
     }
     .subdiv2 p{
         font-size: 12px;
+        font-weight: bolder;
     }
     .sect3{
         height: 450px;
@@ -336,9 +337,11 @@ footer{
     }
     .para1, .para2{
         font-size: 12px;
+        font-weight: bold;
     }
     .subdiv h3{
         font-size: 15px;
+       
     }
     .list1{
         border: 1px solid white;
