@@ -225,7 +225,7 @@ footer{
     .nav{
         background-color: white;
         overflow: hidden;
-        margin-left: 144px;
+        margin-left: 145px;
         margin-top: -5px;
     }
     li{
@@ -342,6 +342,7 @@ footer{
     }
     .list1{
         border: 1px solid white;
+        height: 35px;
     }
     .subdiv p, .subdiv h3{
         margin-left: 45px;
