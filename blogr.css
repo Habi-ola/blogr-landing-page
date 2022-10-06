@@ -64,7 +64,7 @@ li a:hover, .dropdown:hover .dropbtn{
 }
 header{
     border-bottom-left-radius: 40px;
-    height: 250px;
+    height: 390px;
     background-image :linear-gradient(hsl(353, 100%, 62%), hsl(13, 100%, 72%));
 }
 .div2 h2{
@@ -105,10 +105,12 @@ button{
     border: 2px solid white;
     background-color: hsl(353, 100%, 62%);
 }
+
 .sect1 h1{
     text-align: center;
     color:  hsl(237, 17%, 21%);
     font-size: 30px;
+    margin-top: 60px;
 
 }
 .subdiv h3{
@@ -118,6 +120,7 @@ button{
     
 
 }
+
 .para2{
     margin-bottom: 70px;
 }
@@ -195,7 +198,9 @@ footer{
 .col-5{
     width: 41.66%;
 }
-
+.sect3{
+    height: 650px;
+}
 
 @media only screen and (max-width: 500px){
     .open{
@@ -278,8 +283,8 @@ footer{
     }
     .mobile-editor{
         float: right;
-        margin-right: 25px;
-        width: 500px;
+        margin-right: 20px;
+        width: 400px;
     }    
     .subdiv1{
         float: left;
@@ -293,15 +298,15 @@ footer{
     }
     .mobile-phone{
         width: 250px;
-        margin-top: 0px;
+        margin-top: -35px;
     }
     .subdiv1 p{
         font-size: 12px;
     }
     .laptop-desktop{
-        width: 500px;
+        width: 380px;
         float: left;
-        margin-left: 20px;
+       /* margin-left: 20px;*/
        
     }
     .div6{
@@ -329,6 +334,22 @@ footer{
     .subdiv3 p{
         font-size: 22px;
     }
+    .para1, .para2{
+        font-size: 10px;
+    }
+    .subdiv h3{
+        font-size: 15px;
+    }
+    .list1{
+        border: 1px solid white;
+    }
+    .subdiv p, .subdiv h3{
+        margin-left: 45px;
+    }
+    .sect1{
+        height: 450px;
+    }
+
 
 
     
