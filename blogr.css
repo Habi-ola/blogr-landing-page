@@ -268,7 +268,7 @@ footer{
     .subdiv2 h3{
         font-size: 20px;
     }
-    header, .sect1, .sect2, .sect3, footer{
+    header, .sect1,  .sect3, footer{
         overflow: hidden;
     }
 
